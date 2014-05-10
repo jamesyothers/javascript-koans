@@ -90,6 +90,7 @@ products.containsNuts.filter(function(x) {return !x})
 
     expect(ingredientCount['mushrooms']).toBe(2);
   });
+   
 /*
   it("should count the ingredient occurrence (functional)", function () {
     var ingredientCount = { "{ingredient name}": 0 };
